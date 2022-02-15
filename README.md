@@ -1,19 +1,31 @@
 ### Hi there 👋
 
-## 我是振浩(macrohao)
+## 我是史振浩(macrohao)
 
 About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 个人博客
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ..
+##### 🔭 I’m currently focusing on :
 
-```
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=macrohao)](https://github.com/anuraghazra/github-readme-stats)
-```
+* **大数据开发（数据仓库）**
+* 推荐系统
 
+##### 🌱 I’m currently learning :
+
+- 写作
+- 摄影
+- 口语
+- 健身
+- 说话
+- 美食
+
+##### 🤔 I’m interested in :
+
+* 电影
+* 美食
+* 思考
+
+##### 📫 Contact me :
+
+* wechat:```ZJUzhenhao```
+* Dingtalk:```macrohao```
+* Email:```macrohao@dingtalk.com```
