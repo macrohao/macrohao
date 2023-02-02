@@ -6,14 +6,11 @@ About me:
 
 ##### 🔭 I’m currently focusing on :
 
-* **大数据开发（数据仓库）**
-* 推荐系统
+* **databases**
+* distributed system
 
 ##### 🌱 I’m currently learning :
 
-- 写作
-- 摄影
-- 口语
 - 健身
 - 说话
 - 美食
@@ -27,5 +24,4 @@ About me:
 ##### 📫 Contact me :
 
 * wechat:```ZJUzhenhao```
-* Dingtalk:```macrohao```
-* Email:```macrohao@dingtalk.com```
+* email:```2434795479@qq.com```
