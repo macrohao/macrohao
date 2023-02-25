@@ -6,7 +6,7 @@ About me:
 
 ##### 🔭 I’m currently focusing on :
 
-* **databases**
+* database system
 * distributed system
 
 ##### 🌱 I’m currently learning :
