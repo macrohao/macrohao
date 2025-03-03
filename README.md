@@ -6,8 +6,9 @@ About me:
 
 ##### 🔭 I’m currently focusing on :
 
-* database system
-* distributed system
+* AI
+* MERN全栈开发
+* 项目管理
 
 ##### 🌱 I’m currently learning :
 
@@ -19,9 +20,10 @@ About me:
 
 * 电影
 * 美食
-* 思考
+* 健身
 
 ##### 📫 Contact me :
 
-* wechat:```ZJUzhenhao```
+* wechat:```shzenho```
 * email:```2434795479@qq.com```
+* phone:```15890422845```
