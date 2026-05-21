@@ -24,6 +24,5 @@ About me:
 
 ##### 📫 Contact me :
 
-* wechat:```shzenho```
 * email:```2434795479@qq.com```
 * phone:```15890422845```
